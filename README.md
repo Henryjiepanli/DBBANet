@@ -20,6 +20,8 @@ You can download the whole dataset via Baidu Disk:
 - [Download Link](https://pan.baidu.com/s/16sA3ZejzcItAWa2JE1G6vg?pwd=abmg)  
   Code: `abmg`
 
+It is worth noting that when annotating the data, we labeled farmland without crops (in red) and farmland with crops (in green). However, in practical use, we are only concerned with distinguishing between farmland and non-farmland.
+
 ---
 
 ## 🏋️‍♀️ Training Instructions
