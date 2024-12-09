@@ -33,21 +33,21 @@ We have provided a series of compared methods to estabish the benckmark.
 | **Method Name** | **Description**                               |
 |------------------|-----------------------------------------------|
 | **UNet**         | UNet with ResNet-50 encoder for segmentation. |
-| **DeeplabV3+**   | DeepLabV3+ model for multi-class segmentation. |
+| **DeeplabV3+**   | DeepLabV3+ with ResNet-50 encoder for segmentation. |
 | **PSPNet**       | Pyramid Scene Parsing Network for semantic segmentation. |
 | **HRNet**        | High-Resolution Network for fine-grained segmentation. |
-| **ABCNet**       | Adaptive Block Connection Network for segmentation tasks. |
+| **ABCNet**       | Attentive Bilateral Contextual Network for Efficient Semantic Segmentation. |
 | **CMTFNet**      | Cross-Modality Transformer Fusion Network for segmentation. |
-| **MCCANet**      | Multi-Channel Cross Attention Network for semantic segmentation. |
+| **MCCANet**      | Multiscale Transformer Fusion Network for semantic segmentation. |
 | **CGNet**        | Context-Guided Network for efficient segmentation. |
 | **DenseASPP**    | Densely connected Atrous Spatial Pyramid Pooling network. |
 | **ENet**         | Efficient Neural Network for real-time semantic segmentation. |
 | **SegNet**       | Encoder-decoder network for pixel-wise classification. |
 | **BuildFormer**  | Specialized model for building segmentation tasks. |
-| **UANet**        | Unified Attention Network with ResNet-50 for segmentation. |
-| **DSNet**        | Deep Supervised Network with local guide features. |
+| **UANet**        | Uncertainty-Aware Network with ResNet-50 for segmentation. |
+| **DSNet**        | A Local–Global Dual-Stream Network for segmentation. |
 | **UNetFormer**   | UNet-based model incorporating transformer layers. |
-| **DBBANet**      | Dual-Branched Boundary Attention Network for segmentation. |
+| **DBBANet**      | Dual-Branch Boundary-Aware Network for segmentation. |
 
 
 To train the provoided models, follow these steps:
