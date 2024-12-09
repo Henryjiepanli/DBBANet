@@ -27,7 +27,7 @@ It is worth noting that when annotating the data, we labeled farmland without cr
 
 ## 🏋️‍♀️ Training Instructions
 
-We have provided a series of compared methods to estabish the benckmark.
+We have provided a series of compared methods to estabish the benchmark.
 
 
 | **Method Name** | **Description**                               |
