@@ -37,8 +37,8 @@ We have provided a series of compared methods to estabish the benckmark.
 | **PSPNet**       | Pyramid Scene Parsing Network for semantic segmentation. |
 | **HRNet**        | High-Resolution Network for fine-grained segmentation. |
 | **ABCNet**       | Attentive Bilateral Contextual Network for Efficient Semantic Segmentation. |
-| **CMTFNet**      | Cross-Modality Transformer Fusion Network for segmentation. |
-| **MCCANet**      | Multiscale Transformer Fusion Network for semantic segmentation. |
+| **CMTFNet**      | CNN and Multiscale Transformer Fusion Network for semantic segmentation. |
+| **MCCANet**      | Boundary Supervision-Aided Multi scale Channelwise Cross Attention Network for semantic segmentation. |
 | **CGNet**        | Context-Guided Network for efficient segmentation. |
 | **DenseASPP**    | Densely connected Atrous Spatial Pyramid Pooling network. |
 | **ENet**         | Efficient Neural Network for real-time semantic segmentation. |
