@@ -29,6 +29,27 @@ It is worth noting that when annotating the data, we labeled farmland without cr
 
 We have provided a series of compared methods to estabish the benckmark.
 
+
+| **Method Name** | **Description**                               |
+|------------------|-----------------------------------------------|
+| **UNet**         | UNet with ResNet-50 encoder for segmentation. |
+| **DeeplabV3+**   | DeepLabV3+ model for multi-class segmentation. |
+| **PSPNet**       | Pyramid Scene Parsing Network for semantic segmentation. |
+| **HRNet**        | High-Resolution Network for fine-grained segmentation. |
+| **ABCNet**       | Adaptive Block Connection Network for segmentation tasks. |
+| **CMTFNet**      | Cross-Modality Transformer Fusion Network for segmentation. |
+| **MCCANet**      | Multi-Channel Cross Attention Network for semantic segmentation. |
+| **CGNet**        | Context-Guided Network for efficient segmentation. |
+| **DenseASPP**    | Densely connected Atrous Spatial Pyramid Pooling network. |
+| **ENet**         | Efficient Neural Network for real-time semantic segmentation. |
+| **SegNet**       | Encoder-decoder network for pixel-wise classification. |
+| **BuildFormer**  | Specialized model for building segmentation tasks. |
+| **UANet**        | Unified Attention Network with ResNet-50 for segmentation. |
+| **DSNet**        | Deep Supervised Network with local guide features. |
+| **UNetFormer**   | UNet-based model incorporating transformer layers. |
+| **DBBANet**      | Dual-Branched Boundary Attention Network for segmentation. |
+
+
 To train the provoided models, follow these steps:
 
 1. Set the hyperparameters for training.
