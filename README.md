@@ -13,7 +13,7 @@ This repository contains the full implementation of our model, including trainin
 
 We have developed a groundbreaking dataset encompassing diverse types of farmland, taking into account the varying terrain across China.
 
-![Illustration of the geographic distribution of samples in the FGFD dataset](2014_2019.png)
+![Illustration of the geographic distribution of samples in the FGFD dataset](FGFD.png)
 
 You can download the whole dataset via Baidu Disk:
 
