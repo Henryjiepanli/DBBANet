@@ -1,7 +1,7 @@
 # DBBANet
 
 
-The official implementation of **"A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images"**.
+The official implementation of **"A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images"** [Paper Link](https://ieeexplore.ieee.org/document/10793088).
 
 We are delighted to share that our paper has been successfully accepted by the **IEEE Transactions on Geoscience and Remote Sensing (TGRS 2024)**.
 
