@@ -74,4 +74,16 @@ To evaluate the trained model, follow these steps:
 
 ## 📜 Citation
 
-will come soon
+If you use our work in your research, please cite:
+
+  ```bibtex
+    @ARTICLE{10793088,
+  author={Li, Jiepan and Wei, Yipan and Wei, Tiangao and He, Wei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Feature extraction;Data mining;Image segmentation;Remote sensing;Benchmark testing;Accuracy;Vectors;Semantics;Annotations;Production;Farmland extraction;remote sensing;dual-branch;semantic segmentation},
+  doi={10.1109/TGRS.2024.3515157}}
