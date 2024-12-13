@@ -77,7 +77,7 @@ To evaluate the trained model, follow these steps:
 If you use our work in your research, please cite:
 
   ```bibtex
-    @ARTICLE{10793088,
+  @ARTICLE{10793088,
   author={Li, Jiepan and Wei, Yipan and Wei, Tiangao and He, Wei},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images}, 
