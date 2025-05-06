@@ -17,7 +17,11 @@ We have developed a groundbreaking dataset encompassing diverse types of farmlan
 
 You can download the whole dataset via Baidu Disk:
 
-- [Download Link](https://pan.baidu.com/s/1sxsG0gxLtvMEe4qREDRnew?pwd=FGFD)
+- [Original Download Link](https://pan.baidu.com/s/1sxsG0gxLtvMEe4qREDRnew?pwd=FGFD)
+  
+  Code: `FGFD`
+  
+- [Binary Download Link](https://pan.baidu.com/s/1UhoSStCfOhEBnJAxbcEdnw?pwd=FGFD)
   
   Code: `FGFD`
 
