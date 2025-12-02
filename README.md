@@ -21,7 +21,7 @@ You can download the whole dataset via Baidu Disk or Google Drive:
   
   Code: `FGFD`
 
-  - [Original Google Drive Download Link](https://drive.google.com/file/d/1a1VITPNBl6q10eALcdFwJ1eu8XxHa7H0/view?usp=sharing)
+- [Original Google Drive Download Link](https://drive.google.com/file/d/1a1VITPNBl6q10eALcdFwJ1eu8XxHa7H0/view?usp=sharing)
   
 - [Binary (Farmland:255, Background:0) Download Link](https://pan.baidu.com/s/1kdGAowJ2Dcqyn-dUQWLHJA?pwd=FGFD)
   
